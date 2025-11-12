@@ -34,3 +34,20 @@ Our goal is to make communities smarter and safer using AI that understands emot
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
+## 👥Team
+Name           Role
+Alok          Frontend Developer
+Amit Joiya    AI/Research , Presentation
+
+## 🤝Community Impact 
+- 24/7 support for vulnerable groups
+- Real-time saety for events & community chats
+- Empathy-driven social engagement
+- Scalable for NGOs, campus, and local groups
+
+## 📜 License
+MIT
+
+* Made with ❤️for safer, kinder communities.
+HackFest 2025 Submission. 
