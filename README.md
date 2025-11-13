@@ -37,8 +37,8 @@ Our goal is to make communities smarter and safer using AI that understands emot
 
 ## 👥Team
 Name           Role
-Alok          Frontend Developer
-Amit Joiya    AI/Research , Presentation
+Alok<br>          Frontend Developer<br
+Amit Joiya<br>    AI/Research, Presentation<br>
 
 ## 🤝Community Impact 
 - 24/7 support for vulnerable groups
