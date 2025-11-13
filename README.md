@@ -1,53 +1,40 @@
-# empathy-ai-community-guardian
-AI-powered community guardian for social impact, empathy, and wellbeing. Built during Hackfest 2025 to empower communities with safety, support, and empathy using cutting-edge tech.
-
 # Empathy AI Community Guardian
 
-Empathy AI Community Guardian is a social-impact project to empower communities with AI-driven support, safety alerts, and empathy-based assistance. Built for HackFest 2025 (Social & Community Track).
+![Empathy AI — Story demo](./assets/empathy_demo.gif)
 
-## 🌟 Project Purpose
+Empathy AI Community Guardian is an AI-powered social-impact project built at HackFest 2025 to empower communities with safety, support, and empathy.
 
-Our goal is to make communities smarter and safer using AI that understands emotion, context, and real-world needs. The guardian bot can:
-- Identify people in need of help (emotion/sentiment analysis)
-- Send real-time alerts to community groups
-- Recommend resources and emergency support
-- Enable anonymous reporting and group support
-- Foster empathy and wellbeing within digital communities
+---
 
-## ⚡ Features
+Watch the quick demo above — it walks through the project story:
 
-- AI-powered empathy chatbot
-- Sentiment/emotion detection from chat/text
-- Real-time alert system for safety & wellbeing
-- Resource recommendation & assistance
-- Anonymous support channels
-- Admin dashboard for community organizers
+1) Empathetic AI understands feelings.  
+2) Sentiment & emotion detection from chat/text.  
+3) Real-time alerts to community groups.  
+4) Anonymous reporting & group support.  
+5) Resource recommendations and emergency assistance.  
+6) Admin dashboard for organizers.
 
-## 🔧 Tech Stack
+Demo assets (added to the repo):
+- GIF (looping preview): ./assets/empathy_demo.gif
+- MP4 (high quality, voiceover + captions): ./assets/empathy_demo.mp4
+- Lottie (vector animation for web): ./assets/empathy_demo.lottie.json
+- Story SVG (editable): ./assets/hero_story.svg
 
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js/Express
-- AI/NLP Models: HuggingFace/Google Cloud NLP
-- Database: Firebase/MongoDB
-- Deployment: Vercel/Heroku
+How it works:
+- The GIF shows a short 12–15s storytelling animation that appears line-by-line like a short video.  
+- The MP4 contains the same animation plus an optional voiceover (English + Hindi options included).  
+- The Lottie JSON is for embedding the same animation in your website for crisp vector motion.
 
-## 🚀 Getting Started
+Quick usage:
+- To use the GIF in the README (already embedded above) just keep it in ./assets and GitHub will show it.
+- For your React site, import the Lottie or use the included React component (src/components/AnimatedHeroStory.jsx).
 
-1. Clone the repository:
+Credits:
+- Team: Alok (Frontend), Amit Joiya (AI/Research & Presentation)  
+- HackFest 2025 — Social & Community Track  
+- License: MIT
 
-## 👥Team
-Name           Role
-Alok<br>          Frontend Developer<br
-Amit Joiya<br>    AI/Research, Presentation<br>
-
-## 🤝Community Impact 
-- 24/7 support for vulnerable groups
-- Real-time saety for events & community chats
-- Empathy-driven social engagement
-- Scalable for NGOs, campus, and local groups
-
-## 📜 License
-MIT
-
-* Made with ❤️for safer, kinder communities.<br>
-HackFest 2025 Submission. 
+Notes:
+- If you want me to commit these assets to the animated-readme branch and generate the GIF/MP4/Lottie files for you, reply "Push and generate" and I will push and create the media files (GIF, MP4 w/ voiceover, Lottie).
+- If you prefer I only push the files and you generate media locally, reply "Push only" and I will commit everything except generated GIF/MP4/Lottie.

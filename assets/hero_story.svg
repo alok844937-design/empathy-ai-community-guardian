@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <style>
+      .card { fill: #ffffff; stroke: #E6E7EA; rx:20; }
+      .title { font: 800 44px/1.1 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: url(#grad); }
+      .line { font: 600 22px/1.3 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #111827; opacity:0; }
+      .small { font: 500 16px/1.2 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #6B7280; opacity:0; }
+      .badge { fill: #FFF7ED; stroke: #FDE68A; rx:12; ry:12; }
+    </style>
+  </defs>
+
+  <rect x="24" y="18" width="1152" height="564" rx="20" fill="#ffffff" stroke="#E6E7EA"/>
+
+  <!-- Decorative left blob -->
+  <g transform="translate(140,160)">
+    <circle r="76" fill="#ECFEFF" opacity="0.95">
+      <animate attributeName="r" values="76;86;76" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Decorative right blob -->
+  <g transform="translate(1040,120)">
+    <ellipse rx="46" ry="30" fill="#ECFDF5" opacity="0.95">
+      <animate attributeName="rx" values="46;54;46" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Title -->
+  <g transform="translate(80,80)">
+    <text class="title" x="0" y="0">Empathy AI Community Guardian</text>
+  </g>
+
+  <!-- Story lines with staggered SMIL animations -->
+  <g transform="translate(80,160)">
+    <g id="l1" transform="translate(0,0)">
+      <text class="line" x="0" y="0">1) Hum ek empathetic AI banate hain jo feelings samajhta hai.</text>
+      <animate attributeName="opacity" begin="0.6s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.6s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l2" transform="translate(0,48)">
+      <text class="line" x="0" y="0">2) Chat/text se sentiment aur emotion detect hota hai.</text>
+      <animate attributeName="opacity" begin="1.5s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="1.5s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l3" transform="translate(0,96)">
+      <text class="line" x="0" y="0">3) Agar zarurat ho to real-time alert community groups ko send karega.</text>
+      <animate attributeName="opacity" begin="2.4s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="2.4s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l4" transform="translate(0,144)">
+      <text class="line" x="0" y="0">4) Anonymous reporting aur group support features hain.</text>
+      <animate attributeName="opacity" begin="3.2s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="3.2s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l5" transform="translate(0,192)">
+      <text class="line" x="0" y="0">5) Emergency resources aur recommended support links show karega.</text>
+      <animate attributeName="opacity" begin="4.0s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="4.0s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l6" transform="translate(0,240)">
+      <text class="line" x="0" y="0">6) Admin dashboard: organizers ke liye controls aur analytics.</text>
+      <animate attributeName="opacity" begin="4.8s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="4.8s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l7" transform="translate(0,288)">
+      <text class="line" x="0" y="0">Features: AI empathetic chatbot, sentiment detection, alerts, resources, anonymous channels.</text>
+      <animate attributeName="opacity" begin="5.6s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="5.6s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l8" transform="translate(0,336)">
+      <text class="line" x="0" y="0">Tech stack: React, Tailwind, Node/Express, HuggingFace, Firebase/MongoDB.</text>
+      <animate attributeName="opacity" begin="6.4s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="6.4s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l9" transform="translate(0,384)">
+      <text class="line" x="0" y="0">Impact: 24/7 support, real-time safety, scalable for NGOs & campuses.</text>
+      <animate attributeName="opacity" begin="7.2s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="7.2s" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <g id="l10" transform="translate(0,432)">
+      <text class="small" x="0" y="0">Made with ❤️ — HackFest 2025 (Social & Community Track)</text>
+      <animate attributeName="opacity" begin="8.0s" dur="0.7s" from="0" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="8.0s" dur="0.7s" fill="freeze"/>
+    </g>
+  </g>
+
+  <!-- CTA badge -->
+  <g transform="translate(80,500)">
+    <rect class="badge" x="0" y="0" width="260" height="46" rx="12" />
+    <text x="18" y="30" font-size="16" fill="#92400E" font-weight="700" opacity="1">View Demo</text>
+  </g>
+</svg>
