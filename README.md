@@ -49,5 +49,5 @@ Amit Joiya    AI/Research , Presentation
 ## 📜 License
 MIT
 
-* Made with ❤️for safer, kinder communities.
+* Made with ❤️for safer, kinder communities.<br>
 HackFest 2025 Submission. 
