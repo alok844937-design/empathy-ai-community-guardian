@@ -1,0 +1,5 @@
+ENGLISH VOICEOVER (approx 45–55 words):
+"Meet Empathy AI Community Guardian — an AI designed to understand emotion and support people when they need it most. It detects sentiment from chat and text, sends real-time alerts, and recommends resources. Anonymous reporting and a dashboard for organizers help keep communities safe and supported. Built for HackFest 2025 with care."
+
+HINDI VOICEOVER (approx 45–55 words):
+"Milte hain Empathy AI Community Guardian se — ek AI jo bhavnaayein samajhta hai aur zarurat padne par madad karta hai. Ye chat aur text se sentiment detect karta hai, real-time alerts bhejta hai, aur resources recommend karta hai. Anonymous reporting aur organizers ke liye dashboard se communities surakshit aur supported banti hain. HackFest 2025 ke liye banaya gaya."
